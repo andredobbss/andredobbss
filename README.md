@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou André Dobbss!
 
-## 💻 Desenvolvedor .NET | Cientista de Dados | DBA SAP-HANA & SQL Server
+## 💻 Desenvolvedor .NET | Cientista de Dados | DBA SQL Server
 
 Sou apaixonado por tecnologia e inovação! Minha jornada começou na **Engenharia Civil e Gerenciamento de Projetos**, onde busquei soluções inteligentes para controle de **custos e prazos**. Isso me levou ao universo do **desenvolvimento de software** e, desde então, venho unindo **.NET, Ciência de Dados e Inteligência Artificial** para criar soluções eficientes e escaláveis.
 
@@ -10,7 +10,7 @@ Sou apaixonado por tecnologia e inovação! Minha jornada começou na **Engenhar
 
 ✅ **Desenvolvimento Full Stack:** .NET (C#, Blazor, ASP.NET Core)  
 ✅ **Ciência de Dados & IA:** Python, OpenAI, Power BI  
-✅ **Banco de Dados:** SAP-HANA, SQL Server  
+✅ **Banco de Dados:** SQL Server  
 ✅ **Arquitetura de Software:** Clean Architecture, CQRS, DDD  
 ✅ **Integrações:** API REST, Refit, Twilio, OpenAI  
 
