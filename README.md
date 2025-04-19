@@ -6,27 +6,103 @@ Sou apaixonado por tecnologia e inovação! Minha jornada começou na **Engenhar
 
 ---
 
-## 🚀 Tecnologias & Especialidades:
+### 🤖 Tecnologias & Especialidades
 
-✅ **Desenvolvimento Full Stack:** .NET (C#, Blazor, ASP.NET Core)  
-✅ **Ciência de Dados & IA:** Python, OpenAI, Power BI  
-✅ **Banco de Dados:** SQL Server  
-✅ **Arquitetura de Software:** Clean Architecture, CQRS, DDD  
-✅ **Integrações:** API REST, Refit, Twilio, OpenAI  
 
----
+<img 
+    align="left" 
+    alt=".NET" 
+    title=".NET"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"
+/>
 
-## 📌 Projetos & Interesses:
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
 
-🔹 Desenvolvimento de **chatbots inteligentes** com .NET e OpenAI  
-🔹 Integração de **IA e Machine Learning** em soluções empresariais  
-🔹 Construção de APIs robustas com **.NET Core 8**  
-🔹 Aplicações Blazor para **sistemas modernos e interativos**  
+<img 
+    align="left" 
+    alt="Blazor" 
+    title="Blazor"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"
+/>
 
----
+<img 
+    align="left" 
+    alt="Blazor" 
+    title="Blazor"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"
+/>
 
-## 📫 Vamos conversar?
+<img 
+    align="left" 
+    alt="SQL Server" 
+    title="SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
 
-📧 **E-mail:** andredobbss@hotmail.com  
-🌎 **LinkedIn:** [linkedin.com/in/andre-dobbss](https://www.linkedin.com/in/andre-dobbss)  
-🌐 **Portfólio** [taskplantecnologia](https://www.taskplantecnologia.com.br)
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Jupter" 
+    title="Jupter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=andredobbss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredobbss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+
+<br/>
+
+
