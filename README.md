@@ -38,15 +38,6 @@ Sou apaixonado por tecnologia e inovação! Minha jornada começou na **Engenhar
 
 <img 
     align="left" 
-    alt="Blazor" 
-    title="Blazor"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="SQL Server" 
     title="SQL Server"
     width="30px" 
