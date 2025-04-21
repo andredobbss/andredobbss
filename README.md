@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou André Dobbss!
 
-## 💻 Desenvolvedor .NET | Cientista de Dados | DBA SQL Server
+## 💻 Desenvolvedor .NET | DBA SQL Server | Engenheiro de Dados
 
-Sou apaixonado por tecnologia e inovação! Minha jornada começou na **Engenharia Civil e Gerenciamento de Projetos**, onde busquei soluções inteligentes para controle de **custos e prazos**. Isso me levou ao universo do **desenvolvimento de software** e, desde então, venho unindo **.NET, Ciência de Dados e Inteligência Artificial** para criar soluções eficientes e escaláveis.
+Sou Desenvolvedor .NET, com sólida experiência na criação de soluções empresariais personalizadas e um forte background como DBA SQL Server. Atualmente, estou expandindo minha atuação para a área de Engenharia de Dados, com foco em estruturação, tratamento e entrega de dados que auxiliem na tomada de decisões estratégicas.
+Minha jornada na tecnologia teve início na engenharia civil, onde atuei como gestor de obras. Foi nesse contexto que percebi o quanto a tecnologia poderia otimizar processos, controlar custos e prazos com mais eficiência. Desde então, mergulhei de vez no mundo do desenvolvimento de software e dos dados.
 
 ---
 
