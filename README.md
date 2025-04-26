@@ -6,7 +6,7 @@ Sou desenvolvedor .NET com sólida experiência em construção de soluções em
 
 Minha trajetória começou na engenharia civil, onde atuei como gestor de obras e identifiquei a necessidade de automatizar processos e melhorar o controle de custos e prazos. Essa vivência me levou ao desenvolvimento de software e ao mundo dos dados.
 
----
+***
 
 ### 🤖 Tecnologias & Especialidades
 
