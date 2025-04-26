@@ -77,6 +77,10 @@ Minha trajetória começou na engenharia civil, onde atuei como gestor de obras 
 <br/>
 <br/>
 
+
+
+
+
 ### 📊 Estatísticas
 
 <p>
