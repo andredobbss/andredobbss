@@ -86,6 +86,7 @@ Minha trajetória começou na engenharia civil, onde atuei como gestor de obras 
 - 📘 [COALESCE vs ISNULL no SQL Server: Quando Usar Cada Um?](https://medium.com/@andredobbss/coalesce-vs-isnull-no-sql-server-quando-usar-cada-um-0d9d336517b9)
 - 📘 [Subquery, CTE ou View? Um Comparativo Prático com SQL Server](https://medium.com/@andredobbss/subquery-cte-ou-view-um-comparativo-pr%C3%A1tico-com-sql-server-0fa30492289e)
 - 📘 [Tabelas Temporais no SQL Server: Controle de Versão de Dados com T-SQL e Entity Framework Core](https://medium.com/@andredobbss/tabelas-temporais-no-sql-server-controle-de-vers%C3%A3o-de-dados-com-t-sql-e-entity-framework-core-4ce3fd4e477a)
+- 📘 [Criando uma API GraphQL com .NET em poucos minutos](https://medium.com/@andredobbss/criando-uma-api-graphql-com-net-em-poucos-minutos-f6658ef5ebd6)
 
 <br/>
 
