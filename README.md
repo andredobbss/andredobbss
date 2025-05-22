@@ -8,6 +8,8 @@ Minha trajetória começou na engenharia civil, onde atuei como gestor de obras 
 
 ***
 
+<br/>
+
 ### 🤖 Tecnologias & Especialidades
 
 
@@ -76,8 +78,16 @@ Minha trajetória começou na engenharia civil, onde atuei como gestor de obras 
 
 <br/>
 <br/>
+<br/>
 
+ ### ✍️ Últimos Artigos no Medium
 
+- 📘 [Interfaces de Coleção no .NET: Domine IEnumerable, IQueryable, ICollection, IList e mais com exemplos práticos](https://medium.com/@andredobbss/interfaces-de-cole%C3%A7%C3%A3o-no-net-e4b2de4fd91f)
+- 📘 [COALESCE vs ISNULL no SQL Server: Quando Usar Cada Um?](https://medium.com/@andredobbss/coalesce-vs-isnull-no-sql-server-quando-usar-cada-um-0d9d336517b9)
+- 📘 [Subquery, CTE ou View? Um Comparativo Prático com SQL Server](https://medium.com/@andredobbss/subquery-cte-ou-view-um-comparativo-pr%C3%A1tico-com-sql-server-0fa30492289e)
+- 📘 [Tabelas Temporais no SQL Server: Controle de Versão de Dados com T-SQL e Entity Framework Core](https://medium.com/@andredobbss/tabelas-temporais-no-sql-server-controle-de-vers%C3%A3o-de-dados-com-t-sql-e-entity-framework-core-4ce3fd4e477a)
+
+<br/>
 
 ### 📊 Estatísticas
 
