@@ -91,7 +91,7 @@ Minha trajetória começou na engenharia civil, onde atuei como gestor de obras 
 
 ### 📊 Estatísticas
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -107,7 +107,8 @@ Minha trajetória começou na engenharia civil, onde atuei como gestor de obras 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=andredobbss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<p>
+  </div>
+
 
 
 
