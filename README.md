@@ -91,7 +91,7 @@ Minha trajetória começou na engenharia civil, onde atuei como gestor de obras 
 
 ### 📊 Estatísticas
 
-<div>
+<div style="text-align: center;">
   <img 
     align="left" 
     alt="GitHub Stats" 
